@@ -29,7 +29,7 @@ Store
    a. All Stores in a particular mall
    b. All Stores in a particular mall building
    c. Find the store located in unit B47
-   d. All Latte Larry’s in a particular mall building
+   d. All Glow Skin Studio’s in a particular mall building
 PK - mall_id
 SK - building_id, unit_id
 
