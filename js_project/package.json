@@ -1,0 +1,17 @@
+{
+  "name": "js_project",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "test:shopping_mall": "node ./shopping_mall_directory/index.js"
+  },
+  "dependencies": {
+    "@aws-sdk/client-dynamodb": "^3.1001.0",
+    "@aws-sdk/lib-dynamodb": "^3.1001.0"
+  }
+}

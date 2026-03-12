@@ -1,0 +1,122 @@
+[
+  {
+    "store_name": "Urban Threads",
+    "unit_id": "U-101",
+    "mall": "Sunrise Mall",
+    "building": "Block A",
+    "city": "Austin",
+    "lease_start_date": "2023-01-15",
+    "lease_end_date": "2025-01-14",
+    "contact": "james.carter@urbanthreads.com",
+    "category": "Fashion",
+    "rent": 4500
+  },
+  {
+    "store_name": "Fresh Greens",
+    "unit_id": "U-102",
+    "mall": "Sunrise Mall",
+    "building": "Block A",
+    "city": "Austin",
+    "lease_start_date": "2023-02-01",
+    "lease_end_date": "2025-01-31",
+    "contact": "freshgreens@health.com",
+    "category": "Health & Organic",
+    "rent": 3800
+  },
+  {
+    "store_name": "Brew & Bean",
+    "unit_id": "U-203",
+    "mall": "Sunrise Mall",
+    "building": "Block B",
+    "city": "Austin",
+    "lease_start_date": "2022-06-01",
+    "lease_end_date": "2024-05-31",
+    "contact": "hello@brewandbean.com",
+    "category": "Food & Beverage",
+    "rent": 3200
+  },
+  {
+    "store_name": "Book Nook",
+    "unit_id": "U-204",
+    "mall": "Sunrise Mall",
+    "building": "Block B",
+    "city": "Austin",
+    "lease_start_date": "2020-11-01",
+    "lease_end_date": "2024-10-31",
+    "contact": "booknook@gmail.com",
+    "category": "Books & Stationery",
+    "rent": 2100
+  },
+  {
+    "store_name": "TechZone",
+    "unit_id": "U-301",
+    "mall": "Westfield Plaza",
+    "building": "Block A",
+    "city": "Seattle",
+    "lease_start_date": "2023-03-01",
+    "lease_end_date": "2026-02-28",
+    "contact": "leasing@techzone.io",
+    "category": "Electronics",
+    "rent": 7800
+  },
+  {
+    "store_name": "Pixel & Frame",
+    "unit_id": "U-302",
+    "mall": "Westfield Plaza",
+    "building": "Block A",
+    "city": "Seattle",
+    "lease_start_date": "2021-05-20",
+    "lease_end_date": "2024-05-19",
+    "contact": "contact@pixelframe.art",
+    "category": "Art & Photography",
+    "rent": 4200
+  },
+  {
+    "store_name": "Sole Republic",
+    "unit_id": "U-401",
+    "mall": "Westfield Plaza",
+    "building": "Block B",
+    "city": "Seattle",
+    "lease_start_date": "2022-04-15",
+    "lease_end_date": "2025-04-14",
+    "contact": "ops@solerepublic.com",
+    "category": "Footwear",
+    "rent": 6300
+  },
+  {
+    "store_name": "The Toy Chest",
+    "unit_id": "U-501",
+    "mall": "Central Square",
+    "building": "Block A",
+    "city": "Chicago",
+    "lease_start_date": "2021-09-10",
+    "lease_end_date": "2024-09-09",
+    "contact": "manager@toyschest.com",
+    "category": "Toys & Games",
+    "rent": 2900
+  },
+  {
+    "store_name": "Crunch Fitness",
+    "unit_id": "U-502",
+    "mall": "Central Square",
+    "building": "Block A",
+    "city": "Chicago",
+    "lease_start_date": "2022-08-01",
+    "lease_end_date": "2027-07-31",
+    "contact": "leasing@crunchfitness.com",
+    "category": "Sports & Fitness",
+    "rent": 9500
+  },
+  {
+    "store_name": "Glow Skin Studio",
+    "unit_id": "U-503",
+    "mall": "Central Square",
+    "building": "Block B",
+    "city": "Chicago",
+    "lease_start_date": "2023-07-01",
+    "lease_end_date": "2025-06-30",
+    "contact": "info@glowskinstudio.com",
+    "category": "Beauty & Wellness",
+    "rent": 5100
+  }
+]
